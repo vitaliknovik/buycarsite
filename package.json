@@ -1,0 +1,33 @@
+{
+  "name": "react-ohakbs",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@react-google-maps/api": "^2.7.0",
+    "google-maps-react": "^2.0.6",
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "react-js-google-maps": "1.5.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
